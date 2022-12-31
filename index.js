@@ -1,4 +1,4 @@
-const keyakiFesStartTime = new Date(2023, 7, 9, 9, 00, 00); //仮の日程
+const keyakiFesStartTime = new Date(2023, 5, 2, 9, 00, 00); //仮の日程
 
 function countDown() {
   const now = new Date();
